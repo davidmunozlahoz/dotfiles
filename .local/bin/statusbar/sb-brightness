@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# Print current brightness
+
+case $BLOCK_BUTTON in
+	4) xbacklight -inc 1;;
+	5) xbacklight -dec 1;;
+	3) notify-send "🔆 Brightness module" "\- Shows brightness
+- Scroll to change." ;;
+	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+echo "🔆$(xbacklight -get)%"

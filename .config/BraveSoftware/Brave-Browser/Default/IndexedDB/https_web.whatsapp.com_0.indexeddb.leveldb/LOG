@@ -1,0 +1,38 @@
+2022/07/28-17:10:07.223 7b63 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/28-17:10:07.223 7b63 Recovering log #838
+2022/07/28-17:10:07.282 7b63 Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000838.log 
+2022/07/28-17:10:16.758 7b64 Level-0 table #853: started
+2022/07/28-17:10:16.793 7b64 Level-0 table #853: 1275614 bytes OK
+2022/07/28-17:10:16.795 7b64 Delete type=0 #838
+2022/07/28-17:10:17.694 7b64 Compacting 1@0 + 0@1 files
+2022/07/28-17:10:17.722 7b64 Generated table #854@0: 18333 keys, 517729 bytes
+2022/07/28-17:10:17.723 7b64 Generated table #855@0: 285 keys, 5869 bytes
+2022/07/28-17:10:17.723 7b64 Compacted 1@0 + 0@1 files => 523598 bytes
+2022/07/28-17:10:17.724 7b64 compacted to: files[ 0 2 16 0 0 0 0 ]
+2022/07/28-17:10:17.724 7b64 Delete type=2 #853
+2022/07/28-17:10:20.754 79bc Compacting 1@1 + 12@2 files
+2022/07/28-17:10:20.839 79bc Generated table #856@1: 33430 keys, 2245803 bytes
+2022/07/28-17:10:20.891 79bc Generated table #857@1: 3972 keys, 2155071 bytes
+2022/07/28-17:10:20.930 79bc Generated table #858@1: 3544 keys, 2154885 bytes
+2022/07/28-17:10:20.971 79bc Generated table #859@1: 4187 keys, 2163938 bytes
+2022/07/28-17:10:21.009 79bc Generated table #860@1: 4330 keys, 2158965 bytes
+2022/07/28-17:10:21.081 79bc Generated table #861@1: 31649 keys, 2232414 bytes
+2022/07/28-17:10:21.158 79bc Generated table #862@1: 28013 keys, 2258171 bytes
+2022/07/28-17:10:21.223 79bc Generated table #863@1: 23762 keys, 2211329 bytes
+2022/07/28-17:10:21.265 79bc Generated table #864@1: 9265 keys, 2132153 bytes
+2022/07/28-17:10:21.322 79bc Generated table #865@1: 54260 keys, 1830581 bytes
+2022/07/28-17:10:21.322 79bc Compacted 1@1 + 12@2 files => 21543310 bytes
+2022/07/28-17:10:21.324 79bc compacted to: files[ 0 1 14 0 0 0 0 ]
+2022/07/28-17:10:21.324 79bc Delete type=2 #848
+2022/07/28-17:10:21.324 79bc Delete type=2 #847
+2022/07/28-17:10:21.324 79bc Delete type=2 #514
+2022/07/28-17:10:21.324 79bc Delete type=2 #843
+2022/07/28-17:10:21.324 79bc Delete type=2 #440
+2022/07/28-17:10:21.324 79bc Delete type=2 #846
+2022/07/28-17:10:21.324 79bc Delete type=2 #833
+2022/07/28-17:10:21.324 79bc Delete type=2 #845
+2022/07/28-17:10:21.324 79bc Delete type=2 #854
+2022/07/28-17:10:21.324 79bc Delete type=2 #850
+2022/07/28-17:10:21.324 79bc Delete type=2 #849
+2022/07/28-17:10:21.324 79bc Delete type=2 #844
+2022/07/28-17:10:21.324 79bc Delete type=2 #453

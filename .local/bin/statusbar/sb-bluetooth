@@ -1,0 +1,29 @@
+#!/bin/sh
+
+# Print icon if bluetooth is active
+
+blue=$(bluetoothctl show | grep Powered | awk '{printf $2}')
+
+toggle_blue(){
+    if [ $blue == 'yes' ]; then
+        bluetoothctl power off
+    else
+        bluetoothctl power on
+    fi
+    kill -39 $(pidof dwmblocks)
+}
+
+case $BLOCK_BUTTON in
+	1) setsid -f "$TERMINAL" -e bluetoothctl ;;
+	2) toggle_blue ;;
+	3) notify-send "📲 Bluetooth module" "\- Shows 🟦 if bluetooth is powered on, and ⬜ otherwise.
+- Left click to open bluetoothctl.
+- Middle click to toggle bluetooth." ;;
+	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+if [ $blue == 'yes' ]; then
+    echo "🟦"
+else
+    echo "⬜"
+fi

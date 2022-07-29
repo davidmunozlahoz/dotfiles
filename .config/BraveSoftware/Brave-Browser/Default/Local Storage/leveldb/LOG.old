@@ -1,0 +1,35 @@
+2022/07/28-22:48:02.380 3 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/07/28-22:48:02.381 3 Recovering log #767
+2022/07/28-22:48:02.382 3 Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000767.log 
+2022/07/28-23:14:38.381 5 Level-0 table #773: started
+2022/07/28-23:14:38.392 5 Level-0 table #773: 135410 bytes OK
+2022/07/28-23:14:38.396 5 Delete type=0 #767
+2022/07/28-23:17:35.162 e Level-0 table #775: started
+2022/07/28-23:17:35.168 e Level-0 table #775: 118604 bytes OK
+2022/07/28-23:17:35.171 e Delete type=0 #772
+2022/07/28-23:22:00.658 11 Level-0 table #777: started
+2022/07/28-23:22:00.668 11 Level-0 table #777: 118471 bytes OK
+2022/07/28-23:22:00.671 11 Delete type=0 #774
+2022/07/28-23:24:58.804 11 Level-0 table #779: started
+2022/07/28-23:24:58.813 11 Level-0 table #779: 119295 bytes OK
+2022/07/28-23:24:58.816 11 Delete type=0 #776
+2022/07/28-23:24:58.816 11 Compacting 4@0 + 2@1 files
+2022/07/28-23:24:58.887 11 Generated table #780@0: 1018 keys, 2109389 bytes
+2022/07/28-23:24:58.900 11 Generated table #781@0: 826 keys, 289422 bytes
+2022/07/28-23:24:58.900 11 Compacted 4@0 + 2@1 files => 2398811 bytes
+2022/07/28-23:24:58.902 11 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/07/28-23:24:58.903 11 Delete type=2 #775
+2022/07/28-23:24:58.903 11 Delete type=2 #769
+2022/07/28-23:24:58.903 11 Delete type=2 #770
+2022/07/28-23:24:58.903 11 Delete type=2 #779
+2022/07/28-23:24:58.903 11 Delete type=2 #773
+2022/07/28-23:24:58.903 11 Delete type=2 #777
+2022/07/28-23:30:04.869 16 Level-0 table #783: started
+2022/07/28-23:30:04.874 16 Level-0 table #783: 118593 bytes OK
+2022/07/28-23:30:04.878 16 Delete type=0 #778
+2022/07/28-23:30:14.637 11 Level-0 table #785: started
+2022/07/28-23:30:14.648 11 Level-0 table #785: 118471 bytes OK
+2022/07/28-23:30:14.652 11 Delete type=0 #782
+2022/07/28-23:35:31.916 11 Level-0 table #787: started
+2022/07/28-23:35:31.921 11 Level-0 table #787: 118471 bytes OK
+2022/07/28-23:35:31.923 11 Delete type=0 #784

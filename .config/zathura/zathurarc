@@ -1,0 +1,22 @@
+set sandbox none
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding 1
+set selection-clipboard clipboard
+
+map [normal] u scroll full-up
+map [fullscreen] u scroll full-up
+map [normal] d scroll full-down
+map [fullscreen] d scroll full-down
+map [normal] D toggle_page_mode
+map [fullscreen] D toggle_page_mode
+map [normal] r reload
+map [fullscreen] r reload
+map [normal] R rotate
+map [fullscreen] R rotate
+map [normal] K zoom in
+map [fullscreen] K zoom in
+map [normal] J zoom out
+map [fullscreen] J zoom out
+map [normal] i recolor
+map [fullscreen] i recolor
