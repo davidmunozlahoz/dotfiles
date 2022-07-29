@@ -1,6 +1,0 @@
-2022/07/28-22:18:24.984 280 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/07/28-22:18:24.985 280 Recovering log #48
-2022/07/28-22:18:25.010 280 Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000048.log 
-2022/07/28-22:18:41.571 266 Level-0 table #53: started
-2022/07/28-22:18:41.604 266 Level-0 table #53: 1886222 bytes OK
-2022/07/28-22:18:41.606 266 Delete type=0 #48
