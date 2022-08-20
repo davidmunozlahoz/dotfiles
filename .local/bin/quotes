@@ -1,0 +1,33 @@
+#!/bin/sh
+
+# Script to print highlighted parts of the books I have read when I
+# start the terminal
+
+# Quote colors
+quotecol="\033[32;3m"
+titlecol="\033[31;3;1m"
+authorcol="\033[37;1m"
+
+# Files with highlights
+files[0]="quijote.md"
+# files[1]="forja.md"
+# files[2]="colera.md"
+
+# Select a random book
+size=${#files[@]}
+index=$(($RANDOM % $size))
+book="$HOME/dox/vimwiki/${files[$index]}"
+
+# Get title and author
+title=$( grep "title:" "$book" | awk -F ": " '{print $2}' )
+author=$( grep "author:" "$book" | awk -F ": " '{print $2}' )
+
+# Get total number of quotes
+tot=$( grep "[1-9]\." "$book" | tail -n 1 | awk -F ". " '{print $1}' )
+
+# Print a random quote
+n=$(( $RANDOM % $tot + 1))
+cite=$( awk "/^${n}\./" RS="\n\n" $book | grep "^>" | awk -F " " '{$1=""; print $0}' )
+echo -e "${quotecol}""$cite\n"
+echo -e "\t\t\t\t\t\033[0m ${titlecol}" $title
+echo -e "\t\t\t\t\t\033[0m ${authorcol}" $author
