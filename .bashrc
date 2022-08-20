@@ -77,3 +77,5 @@ bind '"\C-F":"cd $(dirname "$(fzf)")\n"'
 source ~/.local/bin/git-prompt.sh
 PS1='\e[1m\e[31m[\e[33m\u\e[34m@\e[35m\h\e[36m \W\e[37m\e[3m$(__git_ps1 " (%s)")\e[23m\e[31m]\e[37m\$ \e[0m'
 
+# a fun greeter
+greeter
