@@ -4,6 +4,6 @@
 # If you use startx/xinit like a Chad, this file will also be sourced.
 
 ~/.local/bin/fehbg &
-setxkbmap -option caps:swapescape,altwin:menu_win &
+setxkbmap -option caps:swapescape,compose:menu&
 dunst &
 picom -b &
