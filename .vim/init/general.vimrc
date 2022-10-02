@@ -42,3 +42,5 @@ set history=1000 " increase undo limit
 setlocal spelllang=en_gb,es " set spell checking
 set viminfofile=~/.cache/viminfo " to move the viminfo file
 set clipboard=unnamed " system clipboard register +
+set undofile                 " turn on persistent undo
+set undodir=$HOME/.vim/undo  " directory where the undo files will be stored
