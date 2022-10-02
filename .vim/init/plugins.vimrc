@@ -21,6 +21,9 @@ let g:UltiSnipsExpandTrigger = '<tab>'
 let g:UltiSnipsJumpForwardTrigger = '<tab>'
 let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
 
+" set snippets directory for speed up
+let g:UltiSnipsSnippetDirectories=["/home/david/.vim/UltiSnips"]
+
 " # Gruvbox theme # "
 
 " set highlighting for spelling mistakes
