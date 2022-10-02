@@ -12,10 +12,10 @@ snippet "(\w*)rm" "Upright Roman Font" r
 \mathrm{${1:`!p snip.rv = match.group(1)`}}$0
 endsnippet
 
-# bb 	-> \mathbb{}
-# xbb -> \mathbb{x}
+# bf 	-> \mathbb{}
+# xbf -> \mathbb{x}
 context "math()"
-snippet "(\w*)bb" "Blank Bold Font" r
+snippet "(\w*)bf" "Blank Bold Font" r
 \mathbb{${1:`!p snip.rv = match.group(1)`}}$0
 endsnippet
 
@@ -66,4 +66,14 @@ endsnippet
 context "math()"
 snippet DD "D" iA
 \mathbb{D}
+endsnippet
+
+context "math()"
+snippet FF "F" iA
+\mathbb{F}
+endsnippet
+
+context "math()"
+snippet KK "K" iA
+\mathbb{K}
 endsnippet
