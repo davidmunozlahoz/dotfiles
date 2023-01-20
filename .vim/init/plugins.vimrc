@@ -10,8 +10,6 @@ let g:vimtex_quickfix_mode = 2
 let g:vimtex_quickfix_open_on_warning = 0
 " show documentation locally using texdoc
 let g:vimtex_doc_handlers = ['vimtex#doc#handlers#texdoc']
-" enable folding
-let g:vimtex_fold_enabled = 1
 " don't fold environments and items
 let g:vimtex_fold_types = {'envs': {'enabled': 0}, 'items': {'enabled': 0}}
 
