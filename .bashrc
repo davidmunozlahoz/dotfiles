@@ -39,7 +39,8 @@ alias \
 	sdn="shutdown -h now" \
     e="$EDITOR" \
     v="$EDITOR" \
-    dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+    dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'\
+    hss='hugo server --noHTTPCache'
 	# trem="transmission-remote" \
 	# YT="youtube-viewer" \
 	# xi="sudo xbps-install" \
