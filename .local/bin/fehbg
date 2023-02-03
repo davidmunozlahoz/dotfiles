@@ -1,2 +1,5 @@
 #!/bin/sh
+ALL="/home/david/pix/wallpapers"
+NAME=$(ls $ALL | shuf -n 1)
+ln -sf $ALL/$NAME /home/david/.local/share/wallpaper
 feh --no-fehbg --bg-scale '/home/david/.local/share/wallpaper' 
