@@ -1,0 +1,7 @@
+2022/08/26-12:00:33.528 7b91 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_violentmonkey.github.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/26-12:00:33.528 7b91 Recovering log #3
+2022/08/26-12:00:33.528 7b91 Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_violentmonkey.github.io_0.indexeddb.leveldb/000003.log 
+2022/08/26-12:01:05.539 74f7 Level-0 table #5: started
+2022/08/26-12:01:05.541 74f7 Level-0 table #5: 3445 bytes OK
+2022/08/26-12:01:05.543 74f7 Delete type=0 #3
+2022/08/26-12:01:05.543 74f7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

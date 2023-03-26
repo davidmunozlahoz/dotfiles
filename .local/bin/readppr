@@ -1,0 +1,16 @@
+#!/bin/sh
+
+ARXIV="https://arxiv.org/search/math?query=flag&searchtype=all&abstracts=show&order=-announced_date_first&size=50"
+THESIS="$HOME/dox/master/thesis"
+LIBRARY="$THESIS/library"
+
+BOOK=$(ls $LIBRARY | dmenu)
+
+EXISTS=$(ls $LIBRARY | grep "$BOOK")
+
+if [[ $EXISTS != "" ]]; then
+    zathura $LIBRARY/$BOOK
+else
+    BOOK=${BOOK// /+}
+    brave ${ARXIV/flag/$BOOK}
+fi

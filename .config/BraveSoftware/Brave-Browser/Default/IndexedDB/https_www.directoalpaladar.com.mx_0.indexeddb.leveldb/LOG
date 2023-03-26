@@ -1,0 +1,6 @@
+2023/02/19-16:47:04.985 1dc09 Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.directoalpaladar.com.mx_0.indexeddb.leveldb since it was missing.
+2023/02/19-16:47:04.987 1dc09 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.directoalpaladar.com.mx_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/19-16:49:04.246 1dc09 Level-0 table #5: started
+2023/02/19-16:49:04.248 1dc09 Level-0 table #5: 1874 bytes OK
+2023/02/19-16:49:04.249 1dc09 Delete type=0 #3
+2023/02/19-16:49:04.249 1dc09 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

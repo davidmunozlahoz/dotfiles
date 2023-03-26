@@ -1,0 +1,59 @@
+2023/03/25-17:06:05.849 65e7 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-009883
+2023/03/25-17:06:05.852 65e7 Recovering log #13304
+2023/03/25-17:06:05.855 65e7 Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/013304.log 
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13283
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13298
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13274
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13286
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13280
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13282
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13289
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13331
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13302
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13246
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13284
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13307
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13303
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13300
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13301
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13299
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13247
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13288
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13287
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13297
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13281
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13290
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13296
+2023/03/25-17:06:05.856 65e7 Delete type=2 #13285
+2023/03/25-17:06:07.106 65de Compacting 1@1 + 10@2 files
+2023/03/25-17:06:07.211 65de Generated table #13332@1: 24293 keys, 2658275 bytes
+2023/03/25-17:06:07.279 65de Generated table #13333@1: 21229 keys, 2181382 bytes
+2023/03/25-17:06:07.312 65de Generated table #13334@1: 2742 keys, 2149382 bytes
+2023/03/25-17:06:07.348 65de Generated table #13335@1: 3456 keys, 2151034 bytes
+2023/03/25-17:06:07.396 65de Generated table #13336@1: 3739 keys, 2150150 bytes
+2023/03/25-17:06:07.445 65de Generated table #13337@1: 3955 keys, 2150183 bytes
+2023/03/25-17:06:07.502 65de Generated table #13338@1: 3686 keys, 2146965 bytes
+2023/03/25-17:06:07.556 65de Generated table #13339@1: 3359 keys, 2148270 bytes
+2023/03/25-17:06:07.610 65de Generated table #13340@1: 2995 keys, 2163119 bytes
+2023/03/25-17:06:07.652 65de Generated table #13341@1: 3381 keys, 1914731 bytes
+2023/03/25-17:06:07.652 65de Compacted 1@1 + 10@2 files => 21813491 bytes
+2023/03/25-17:06:07.653 65de compacted to: files[ 0 1 41 0 0 0 0 ]
+2023/03/25-17:06:07.654 65de Delete type=2 #13265
+2023/03/25-17:06:07.654 65de Delete type=2 #13270
+2023/03/25-17:06:07.654 65de Delete type=2 #13273
+2023/03/25-17:06:07.654 65de Delete type=2 #13268
+2023/03/25-17:06:07.654 65de Delete type=2 #13266
+2023/03/25-17:06:07.654 65de Delete type=2 #13264
+2023/03/25-17:06:07.654 65de Delete type=2 #13306
+2023/03/25-17:06:07.654 65de Delete type=2 #13271
+2023/03/25-17:06:07.654 65de Delete type=2 #13267
+2023/03/25-17:06:07.654 65de Delete type=2 #13269
+2023/03/25-17:06:07.654 65de Delete type=2 #13272
+2023/03/25-17:08:17.087 9d6b Compacting 1@1 + 2@2 files
+2023/03/25-17:08:17.187 9d6b Generated table #13342@1: 98694 keys, 2247321 bytes
+2023/03/25-17:08:17.246 9d6b Generated table #13343@1: 56421 keys, 1324800 bytes
+2023/03/25-17:08:17.246 9d6b Compacted 1@1 + 2@2 files => 3572121 bytes
+2023/03/25-17:08:17.247 9d6b compacted to: files[ 0 0 41 0 0 0 0 ]
+2023/03/25-17:08:17.247 9d6b Delete type=2 #13309
+2023/03/25-17:08:17.247 9d6b Delete type=2 #13291
+2023/03/25-17:08:17.247 9d6b Delete type=2 #13292

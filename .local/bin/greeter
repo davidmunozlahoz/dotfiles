@@ -1,9 +1,0 @@
-#!/bin/sh
-
-n=$RANDOM
-
-if [ $((n%10)) == 0 ]; then
-    ~/.local/bin/quotes
-else
-    colorscript random
-fi

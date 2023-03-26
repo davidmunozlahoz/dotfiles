@@ -1,0 +1,10 @@
+2023/01/17-22:10:07.299 8937 Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tienda.mercadona.es_0.indexeddb.leveldb since it was missing.
+2023/01/17-22:10:07.302 8937 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tienda.mercadona.es_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/17-22:10:07.309 8936 Level-0 table #5: started
+2023/01/17-22:10:07.310 8936 Level-0 table #5: 1223 bytes OK
+2023/01/17-22:10:07.311 8936 Delete type=0 #3
+2023/01/17-22:10:07.311 8936 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/17-22:10:37.946 8936 Level-0 table #7: started
+2023/01/17-22:10:37.948 8936 Level-0 table #7: 37225 bytes OK
+2023/01/17-22:10:37.949 8936 Delete type=0 #4
+2023/01/17-22:10:37.949 8936 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

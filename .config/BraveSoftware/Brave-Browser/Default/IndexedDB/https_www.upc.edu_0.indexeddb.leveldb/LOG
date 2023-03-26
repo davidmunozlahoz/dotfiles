@@ -1,0 +1,7 @@
+2022/08/11-11:56:21.225 6480 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.upc.edu_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/11-11:56:21.226 6480 Recovering log #4
+2022/08/11-11:56:21.226 6480 Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.upc.edu_0.indexeddb.leveldb/000004.log 
+2022/08/11-11:56:24.610 5af0 Level-0 table #8: started
+2022/08/11-11:56:24.611 5af0 Level-0 table #8: 564 bytes OK
+2022/08/11-11:56:24.612 5af0 Delete type=0 #4
+2022/08/11-11:56:24.612 5af0 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

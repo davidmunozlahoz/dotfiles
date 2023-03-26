@@ -1,0 +1,7 @@
+2023/01/15-11:26:20.064 699d Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_login.coinbase.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/15-11:26:20.064 699d Recovering log #3
+2023/01/15-11:26:20.072 699d Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_login.coinbase.com_0.indexeddb.leveldb/000003.log 
+2023/01/15-11:26:36.629 7032 Level-0 table #5: started
+2023/01/15-11:26:36.638 7032 Level-0 table #5: 319035 bytes OK
+2023/01/15-11:26:36.640 7032 Delete type=0 #3
+2023/01/15-11:26:36.640 7032 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

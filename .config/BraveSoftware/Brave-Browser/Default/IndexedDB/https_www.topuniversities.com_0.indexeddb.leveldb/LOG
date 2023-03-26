@@ -1,0 +1,13 @@
+2023/03/18-08:48:44.815 dcb8 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.topuniversities.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/18-08:48:44.816 dcb8 Recovering log #10
+2023/03/18-08:48:44.816 dcb8 Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.topuniversities.com_0.indexeddb.leveldb/000010.log 
+2023/03/18-08:48:44.825 dbb8 Level-0 table #14: started
+2023/03/18-08:48:44.826 dbb8 Level-0 table #14: 880 bytes OK
+2023/03/18-08:48:44.827 dbb8 Delete type=0 #10
+2023/03/18-08:48:44.827 dbb8 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 167 : 1
+2023/03/18-08:48:44.827 dbb8 Compacting 1@0 + 1@1 files
+2023/03/18-08:48:44.828 dbb8 Generated table #15@0: 14 keys, 653 bytes
+2023/03/18-08:48:44.828 dbb8 Compacted 1@0 + 1@1 files => 653 bytes
+2023/03/18-08:48:44.829 dbb8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/18-08:48:44.829 dbb8 Delete type=2 #14
+2023/03/18-08:48:44.829 dbb8 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 167 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

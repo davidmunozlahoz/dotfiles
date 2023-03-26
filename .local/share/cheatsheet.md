@@ -56,6 +56,8 @@ author: David Muñoz Lahoz
 - `Win+F11`: View webcam
 - `PrtSc`: Save screenshot of full screen
 - `Shift+PrtSc`: Save screenshot of a screen region
+- `Win+PrtSc`: Start a recording
+- `Win++Shift+PrtSc`: End current recording
 
 ## Window layouts
 - `Win+t`: Tiling mode (default)

@@ -1,0 +1,7 @@
+2023/01/26-20:38:10.554 25cf1 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/26-20:38:10.554 25cf1 Recovering log #3
+2023/01/26-20:38:10.555 25cf1 Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000003.log 
+2023/01/26-20:38:42.558 26cc3 Level-0 table #5: started
+2023/01/26-20:38:42.560 26cc3 Level-0 table #5: 6046 bytes OK
+2023/01/26-20:38:42.562 26cc3 Delete type=0 #3
+2023/01/26-20:38:42.562 26cc3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

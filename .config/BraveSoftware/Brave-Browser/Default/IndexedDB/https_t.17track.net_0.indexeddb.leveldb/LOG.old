@@ -1,0 +1,26 @@
+2023/02/03-16:55:22.006 4bda Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_t.17track.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/03-16:55:22.006 4bda Recovering log #8
+2023/02/03-16:55:22.006 4bda Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_t.17track.net_0.indexeddb.leveldb/000008.log 
+2023/02/03-16:55:44.370 4bda Level-0 table #14: started
+2023/02/03-16:55:44.371 4bda Level-0 table #14: 533 bytes OK
+2023/02/03-16:55:44.372 4bda Delete type=0 #8
+2023/02/03-16:55:44.373 4bda Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/03-16:55:46.377 4bda Level-0 table #16: started
+2023/02/03-16:55:46.379 4bda Level-0 table #16: 256 bytes OK
+2023/02/03-16:55:46.380 4bda Delete type=0 #13
+2023/02/03-16:55:46.380 4bda Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 60 : 0
+2023/02/03-16:55:46.380 4bda Compacting 1@0 + 1@1 files
+2023/02/03-16:55:46.381 4bda Generated table #17@0: 4 keys, 234 bytes
+2023/02/03-16:55:46.381 4bda Compacted 1@0 + 1@1 files => 234 bytes
+2023/02/03-16:55:46.382 4bda compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/03-16:55:46.382 4bda Delete type=2 #16
+2023/02/03-16:55:46.382 4bda Delete type=2 #14
+2023/02/03-16:55:46.382 4bda Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 60 : 0 .. (end); will stop at (end)
+2023/02/03-16:55:46.382 4bda Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 63 : 1
+2023/02/03-16:55:46.382 4bda Compacting 1@1 + 1@2 files
+2023/02/03-16:55:46.383 4bda Generated table #18@1: 6 keys, 253 bytes
+2023/02/03-16:55:46.383 4bda Compacted 1@1 + 1@2 files => 253 bytes
+2023/02/03-16:55:46.384 4bda compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/03-16:55:46.384 4bda Delete type=2 #17
+2023/02/03-16:55:46.384 4bda Delete type=2 #11
+2023/02/03-16:55:46.384 4bda Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 63 : 1 .. (end); will stop at (end)

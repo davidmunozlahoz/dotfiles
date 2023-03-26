@@ -1,0 +1,8 @@
+# GIMP gimp-crop-tool options
+
+(aspect-denominator 1152)
+(aspect-numerator 2048)
+(fixed-rule width)
+(pattern "Pine")
+
+# end of gimp-crop-tool options

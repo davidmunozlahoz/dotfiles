@@ -1,0 +1,6 @@
+2022/07/29-10:31:46.118 1911 Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb since it was missing.
+2022/07/29-10:31:46.121 1911 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/29-11:29:08.150 6544 Level-0 table #5: started
+2022/07/29-11:29:08.151 6544 Level-0 table #5: 18089 bytes OK
+2022/07/29-11:29:08.152 6544 Delete type=0 #3
+2022/07/29-11:29:08.152 6544 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

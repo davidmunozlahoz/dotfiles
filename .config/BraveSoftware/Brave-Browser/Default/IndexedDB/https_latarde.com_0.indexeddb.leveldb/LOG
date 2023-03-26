@@ -1,0 +1,18 @@
+2022/07/20-12:51:10.326 fa3a Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_latarde.com_0.indexeddb.leveldb since it was missing.
+2022/07/20-12:51:10.328 fa3a Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_latarde.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/20-12:51:11.904 fb62 Level-0 table #5: started
+2022/07/20-12:51:11.904 fb62 Level-0 table #5: 560 bytes OK
+2022/07/20-12:51:11.905 fb62 Delete type=0 #3
+2022/07/20-12:51:11.905 fb62 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/07/20-12:51:13.910 fb62 Level-0 table #7: started
+2022/07/20-12:51:13.912 fb62 Level-0 table #7: 256 bytes OK
+2022/07/20-12:51:13.912 fb62 Delete type=0 #4
+2022/07/20-12:51:13.913 fb62 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/20-12:51:13.913 fb62 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2022/07/20-12:51:13.913 fb62 Compacting 1@1 + 1@2 files
+2022/07/20-12:51:13.914 fb62 Generated table #8@1: 6 keys, 253 bytes
+2022/07/20-12:51:13.914 fb62 Compacted 1@1 + 1@2 files => 253 bytes
+2022/07/20-12:51:13.915 fb62 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/20-12:51:13.915 fb62 Delete type=2 #7
+2022/07/20-12:51:13.915 fb62 Delete type=2 #5
+2022/07/20-12:51:13.915 fb62 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

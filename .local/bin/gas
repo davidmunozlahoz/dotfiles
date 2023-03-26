@@ -1,0 +1,14 @@
+#!/bin/sh
+
+GAS_PRICES_FILE="$XDG_DATA_HOME/gas_prices.csv"
+
+if [ $(awk -F"[,]" 'END{print $1}' $GAS_PRICES_FILE) = $(date +%Y-%m-%d) ]; then
+    exit 0
+fi
+
+# get gas prices in the appropiate order and output to $FILE
+PRICES=$(curl -s https://combustibles.observatorioprecios.com/95-prot/madrid/colmenar-viejo/ |\
+    grep "clrleft mh48" | awk -F"[><]" '{print $13 $15 ";" $7}' |\
+    sort -t";" | awk -F";" '{printf "%s%s", sep, $2; sep=","} END{print ""}')
+
+echo $(date +%Y-%m-%d),$PRICES >> $GAS_PRICES_FILE

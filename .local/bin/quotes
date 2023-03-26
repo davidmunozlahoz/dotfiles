@@ -4,14 +4,12 @@
 # start the terminal
 
 # Quote colors
-quotecol="\033[32;3m"
+quotecol="\033[34;3m"
 titlecol="\033[31;3;1m"
 authorcol="\033[37;1m"
 
 # Files with highlights
-files[0]="quijote.md"
-# files[1]="forja.md"
-# files[2]="colera.md"
+files=( "quijote.md" )
 
 # Select a random book
 size=${#files[@]}

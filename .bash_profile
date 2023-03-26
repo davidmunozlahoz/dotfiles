@@ -20,6 +20,8 @@ export XINITRC="${XDG_CONFIG_HOME:-$HOME/.config}/x11/xinitrc"
 export HISTFILE="$XDG_CACHE_HOME"
 export LESSHISTFILE="$XDG_CACHE_HOME"
 
+export OPENAI_API_KEY="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"
+
 # This is the list for lf icons:
 export LF_ICONS="di=📁:\
 fi=📃:\
@@ -98,5 +100,8 @@ ex=🎯:\
 *.jar=♨:\
 *.java=♨:\
 "
+
+# save gas prices
+gas
 
 startx

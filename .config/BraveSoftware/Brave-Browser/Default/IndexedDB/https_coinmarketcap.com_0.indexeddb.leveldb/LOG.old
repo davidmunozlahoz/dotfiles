@@ -1,0 +1,31 @@
+2023/01/26-16:10:36.157 173cf Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_coinmarketcap.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/26-16:10:36.157 173cf Recovering log #11
+2023/01/26-16:10:36.158 173cf Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_coinmarketcap.com_0.indexeddb.leveldb/000011.log 
+2023/01/26-16:10:36.158 173cf Delete type=2 #10
+2023/01/26-16:11:16.920 173cf Compacting 1@1 + 1@2 files
+2023/01/26-16:11:16.921 173cf Generated table #15@1: 21 keys, 932 bytes
+2023/01/26-16:11:16.921 173cf Compacted 1@1 + 1@2 files => 932 bytes
+2023/01/26-16:11:16.922 173cf compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/26-16:11:16.922 173cf Delete type=2 #13
+2023/01/26-16:11:16.922 173cf Delete type=2 #5
+2023/01/26-16:12:37.022 173cf Level-0 table #17: started
+2023/01/26-16:12:37.072 173cf Level-0 table #17: 1174707 bytes OK
+2023/01/26-16:12:37.073 173cf Delete type=0 #11
+2023/01/26-16:12:57.013 173bd Compacting 1@1 + 1@2 files
+2023/01/26-16:12:57.034 173bd Generated table #18@1: 286 keys, 17152 bytes
+2023/01/26-16:12:57.034 173bd Compacted 1@1 + 1@2 files => 17152 bytes
+2023/01/26-16:12:57.035 173bd compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/26-16:14:08.311 173cf Level-0 table #20: started
+2023/01/26-16:14:08.354 173cf Level-0 table #20: 871211 bytes OK
+2023/01/26-16:14:08.357 173cf Delete type=2 #17
+2023/01/26-16:14:08.357 173cf Delete type=0 #16
+2023/01/26-16:14:08.357 173cf Delete type=2 #15
+2023/01/26-16:14:08.358 173cf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/01/26-16:14:08.358 173cf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x01\x02\x01\x08\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e' @ 49425 : 1
+2023/01/26-16:14:08.358 173cf Compacting 1@1 + 1@2 files
+2023/01/26-16:14:08.371 173cf Generated table #21@1: 281 keys, 16565 bytes
+2023/01/26-16:14:08.371 173cf Compacted 1@1 + 1@2 files => 16565 bytes
+2023/01/26-16:14:08.372 173cf compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/26-16:14:08.372 173cf Delete type=2 #18
+2023/01/26-16:14:08.372 173cf Delete type=2 #20
+2023/01/26-16:14:08.372 173cf Manual compaction at level-1 from '\x00\x07\x01\x02\x01\x08\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e' @ 49425 : 1 .. (end); will stop at (end)

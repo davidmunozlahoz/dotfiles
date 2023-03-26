@@ -1,0 +1,4 @@
+#!/bin/sh
+
+PRICE=$( curl -s https://combustibles.observatorioprecios.com/95-prot/madrid/colmenar-viejo/ | grep "PETROPRIX" | awk -F"[><]" '{print $7}' )
+echo 🛢️$PRICE€

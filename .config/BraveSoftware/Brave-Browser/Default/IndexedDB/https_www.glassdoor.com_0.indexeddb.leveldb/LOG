@@ -1,0 +1,7 @@
+2023/02/10-17:58:03.215 a06b Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.glassdoor.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/10-17:58:03.215 a06b Recovering log #3
+2023/02/10-17:58:03.216 a06b Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.glassdoor.com_0.indexeddb.leveldb/000003.log 
+2023/02/10-17:58:38.785 a06b Level-0 table #5: started
+2023/02/10-17:58:38.787 a06b Level-0 table #5: 32961 bytes OK
+2023/02/10-17:58:38.788 a06b Delete type=0 #3
+2023/02/10-17:58:38.788 a06b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

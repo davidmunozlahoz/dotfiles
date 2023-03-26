@@ -1,0 +1,6 @@
+2023/03/06-22:48:47.989 2187a Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_csuc-uab.primo.exlibrisgroup.com_0.indexeddb.leveldb since it was missing.
+2023/03/06-22:48:47.991 2187a Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_csuc-uab.primo.exlibrisgroup.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/06-22:48:50.412 2187d Level-0 table #5: started
+2023/03/06-22:48:50.415 2187d Level-0 table #5: 1313 bytes OK
+2023/03/06-22:48:50.416 2187d Delete type=0 #3
+2023/03/06-22:48:50.417 2187d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

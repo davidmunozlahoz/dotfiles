@@ -1,0 +1,6 @@
+2023/02/04-18:04:08.957 93ab Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_live-cosmos.capex.com_0.indexeddb.leveldb since it was missing.
+2023/02/04-18:04:08.962 93ab Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_live-cosmos.capex.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/04-18:05:14.950 98cc Level-0 table #5: started
+2023/02/04-18:05:14.954 98cc Level-0 table #5: 78519 bytes OK
+2023/02/04-18:05:14.955 98cc Delete type=0 #3
+2023/02/04-18:05:14.955 98cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

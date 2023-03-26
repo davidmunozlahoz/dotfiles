@@ -1,0 +1,6 @@
+2023/02/12-10:56:15.662 aebb Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.researchgate.net_0.indexeddb.leveldb since it was missing.
+2023/02/12-10:56:15.665 aebb Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.researchgate.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/12-10:56:52.888 afc2 Level-0 table #5: started
+2023/02/12-10:56:52.890 afc2 Level-0 table #5: 1068 bytes OK
+2023/02/12-10:56:52.891 afc2 Delete type=0 #3
+2023/02/12-10:56:52.892 afc2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

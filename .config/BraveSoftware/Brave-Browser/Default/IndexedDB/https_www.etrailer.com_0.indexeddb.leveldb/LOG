@@ -1,0 +1,6 @@
+2023/03/05-17:05:17.262 1377a Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.etrailer.com_0.indexeddb.leveldb since it was missing.
+2023/03/05-17:05:17.267 1377a Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.etrailer.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/05-17:05:59.687 1377a Level-0 table #5: started
+2023/03/05-17:05:59.690 1377a Level-0 table #5: 2267 bytes OK
+2023/03/05-17:05:59.691 1377a Delete type=0 #3
+2023/03/05-17:05:59.691 1377a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

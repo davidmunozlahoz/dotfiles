@@ -9,6 +9,8 @@ map <leader>sn ]s
 map <leader>sp [s
 map <leader>sa zg
 map <leader>sc z=
+map <leader>st :ThesaurusQueryReplaceCurrentWord<CR>
+map <leader>sg :GrammarousCheck<CR>
 
 " buffers
 map <leader>j :bn<cr>

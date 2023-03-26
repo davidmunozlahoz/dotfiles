@@ -1,0 +1,121 @@
+: mkdir library
+: ! convert CamScanner\ 10-17-2022\ 11.46_[1-6] contrato.pdf
+: ! convert CamScanner\ 10-17-2022\ 11.46_[1-6].jpg contrato.pdf
+: ! convert CamScanner\ 10-17-2022\ 11.46_[7-8].jpg localizacion_david.pdf
+: ! convert CamScanner\ 10-17-2022\ 11.46_[9-10].jpg localizacion_mercedes.pdf
+: ! convert CamScanner\ 10-17-2022\ 11.46_[9-10].jpg localizacion_mercedes.pdf
+: ! convert CamScanner\ 10-17-2022\ 11.46_11.jpg padron.pdf
+: ! convert CamScanner\ 10-17-2022\ 11.46_[9-10].jpg localizacion_mercedes.pdf
+: ! convert CamScanner\ 10-17-2022\ 11.46_9.jpg CamScanner\ 10-17-2022\ 11.46_10.jpg localizacion_mercedes.pdf
+: mkdir entrega2
+: ! pdftk merge CamScanner\ 10-24-2022\ 19.53_*.jpg output entrega.pdf
+: ! convert CamScanner\ 10-24-2022\ 19.53_*.jpg entrega.pdf
+: ! convert CamScanner\ 10-24-2022\ 19.53_[1-12].jpg entrega.pdf
+: ! convert CamScanner\ 10-24-2022\ 19.53_[1]?[1-9].jpg entrega2.pdf
+: mkdir portfolio
+: mkdir ia
+: mkdir studying
+: !./yt_audio.sh https://www.youtube.com/watch?v=9oc8Fa7tb8c&t=13518s rain
+: ! hugo
+: mkdir entrega6
+: mkdir v3-2022-12-29
+: !vim diciembre.txt
+: ! python3 gastos.py diciembre.txt 
+: ! python gastos.py diciembre.txt 
+: ! gastos.py diciembre.txt 
+: ! python gastos.py diciembre.txt 
+: mkdir notes
+: ! for file in *.xopp; do echo Processing $file; xournalpp -p "${file%.*}"_export.pdf $file; done
+: ! convert *.pdf -format "png"
+: ! for file in *.xopp; do echo Processing $file; convert $file "${file%.*}".png; done
+: ! for file in *.pdf; do echo Processing $file; convert
+$ file "${file%.*}".png $file; done
+: ! for file in *.pdf; do echo Processing $file; convert
+$ file "${file%.*}".png $file; done
+: for file in *.pdf; do echo Processing $file; convert $file "${file%.*}".png $file; done
+: ! for file in *.pdf; do echo Processing $file; convert $file "${file%.*}".png $file; done
+: !for file in *.pdf; do echo Processing $file; convert $file "${file%.*}".png; done
+: ! sxiv 2023-01-07-Nota-10-03_export-0.png 
+: ! convert -density 300 -depth 8 -quality 85 2023-01-02-Nota-12-50_export.pdf a.png
+: ! sxiv a-0.png 
+: ! convert -density 300 a.pdf -resize 25% a.png
+: ! sxiv a-0.png 
+: ! sxiv a-0.png 
+: ! sxiv 2023-01-05-Nota-11-07_export-0.png 
+: ! vim to_pdf.sh
+: !chmod +x to_pdf.sh 
+: ! ln -s ../notes ./notes
+: ! ln -s ~/dox/notes ~/dox/written_surface/notes
+: ! ln -s ~/dox/notes notes
+: ! jupyter notebook portfolio.ipynb 
+: mkdir galois
+: mkdir original
+: pdftk lindenstrauss_tzafriri1979.pdf cat 10-68 output imprimir.pdf
+: !pdftk lindenstrauss_tzafriri1979.pdf cat 10-68 output imprimir.pdf
+: mkdir lindenstrauss_tzafriri
+: !pdftk chap2.pdf cat 1-20 output chap2_1.pdf
+: !pdftk chap2.pdf cat 21-40 output chap2_2.pdf 
+: !pdftk chap2.pdf cat 41- output chap2_3.pdf
+: mkdir v2.2-2023-01-16
+: !pdftk chap2.pdf cat 61-68 output chap2_4.pdf
+: !pdftk chap2.pdf cat 41-48 output chap2_4.pdf
+: ! ls -la
+: !pdftk notasMAT.pdf cat 7-12 output notas.pdf
+: mkdir v3-2023-01-19
+: !vim main.tex
+: mkdir chap3
+: e main.tex
+: !vim main.tex preamble.tex
+: !convert wik*.png wikipedia.pdf
+: !vim test.tex
+: mkdir test
+: ! xelatex test.tex
+: !xelatex test.tex
+: !xelatex test.tex
+: !xelatex test.tex 
+: mkdir typography
+: pdftk clase05bruto.pdf cat 64 67 output clase05.pdf
+: !pdftk clase05bruto.pdf cat 64 67 output clase05.pdf
+: mkdir avanzado_analisis
+: mkdir avanzado_algebra
+: mkdir avanzado_geometria
+: mkdir FPU
+: !vim enero.txt
+: !python gastos.py enero.txt 
+: ! sxiv WhatsApp\ Image\ 2023-02-01\ at\ 14.32.48.jpeg 
+: !sxiv WhatsApp\ Image\ 2023-02-01\ at\ 14.3*
+: !pdftk notasFIS.pdf cat 7-12 output notasFIScat.pdf
+: !pdftk IELTS.pdf output IELTSsmall.pdf compress
+: !sxiv pic-selected-230203-1234-33.png 
+: mkdir diff
+: !latexdiff original/block0.tex revised/block0.tex 
+: !latexdiff original/block0.tex revised/block0.tex > block0.tex
+: !latexdiff original/classNotes.tex revised/classNotes.tex
+: !latexdiff original/classNotes.tex revised/classNotes.tex > classNotes.tex
+: !latexdiff original revised
+: !latexdiff revised/block0.tex original/block0.tex output block0.tex
+: !latexdiff -h
+: !zip
+: !zip revision.zip diff original revised
+: !zip -r revision.zip diff original revised
+: mkdir coverletter
+: sxiv *
+: !sxiv *
+: mkdir paula
+: e CV_public.tex
+: !vim CV_public.tex
+: !vim CV_public.sh
+: !chmod +x CV_public
+: !CV_public
+: !./CV_public
+: !sudo rm -rf Python-3.9.9/
+: !pdftk cat 19-29 disquisitione.pdf output fragment.pdf
+: mkdir gauss
+: mkdir delacuesta
+: !vim descripcion.txt
+: mkdir neural
+: mkdir linuxchad
+: mkdir miniatura
+: mkdir instalar_latex
+: mkdir assets
+: mkdir trabajo

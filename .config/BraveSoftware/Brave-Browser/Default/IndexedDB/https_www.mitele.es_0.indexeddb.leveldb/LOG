@@ -1,0 +1,6 @@
+2022/09/18-22:04:50.728 74aa Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mitele.es_0.indexeddb.leveldb since it was missing.
+2022/09/18-22:04:50.730 74aa Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mitele.es_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/18-22:04:53.217 74aa Level-0 table #5: started
+2022/09/18-22:04:53.218 74aa Level-0 table #5: 1413 bytes OK
+2022/09/18-22:04:53.219 74aa Delete type=0 #3
+2022/09/18-22:04:53.219 74aa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

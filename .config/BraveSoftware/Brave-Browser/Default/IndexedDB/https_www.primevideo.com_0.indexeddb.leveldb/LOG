@@ -1,0 +1,15 @@
+2023/02/11-14:15:44.313 77c Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/11-14:15:44.313 77c Recovering log #15
+2023/02/11-14:15:44.315 77c Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/000015.log 
+2023/02/11-14:41:56.066 2dd7 Level-0 table #20: started
+2023/02/11-14:41:56.069 2dd7 Level-0 table #20: 73702 bytes OK
+2023/02/11-14:41:56.070 2dd7 Delete type=0 #15
+2023/02/11-14:41:56.071 2dd7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/02/11-14:41:56.071 2dd7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x13\x00g\x00e\x00t\x00w\x00e\x00b\x00l\x00a\x00b\x00s\x00_\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 973 : 1
+2023/02/11-14:41:56.071 2dd7 Compacting 1@1 + 1@2 files
+2023/02/11-14:41:56.074 2dd7 Generated table #21@1: 40 keys, 15295 bytes
+2023/02/11-14:41:56.074 2dd7 Compacted 1@1 + 1@2 files => 15295 bytes
+2023/02/11-14:41:56.075 2dd7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/11-14:41:56.075 2dd7 Delete type=2 #17
+2023/02/11-14:41:56.075 2dd7 Delete type=2 #20
+2023/02/11-14:41:56.075 2dd7 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x13\x00g\x00e\x00t\x00w\x00e\x00b\x00l\x00a\x00b\x00s\x00_\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 973 : 1 .. (end); will stop at (end)

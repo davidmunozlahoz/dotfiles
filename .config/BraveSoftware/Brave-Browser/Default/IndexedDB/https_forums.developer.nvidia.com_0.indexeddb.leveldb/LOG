@@ -1,0 +1,6 @@
+2022/12/04-16:34:33.752 919c Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.developer.nvidia.com_0.indexeddb.leveldb since it was missing.
+2022/12/04-16:34:33.758 919c Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.developer.nvidia.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/04-16:37:13.789 9531 Level-0 table #5: started
+2022/12/04-16:37:13.792 9531 Level-0 table #5: 6551 bytes OK
+2022/12/04-16:37:13.793 9531 Delete type=0 #3
+2022/12/04-16:37:13.794 9531 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

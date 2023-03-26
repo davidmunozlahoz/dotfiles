@@ -1,0 +1,6 @@
+2022/07/29-17:00:15.286 791d Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hotpot.ai_0.indexeddb.leveldb since it was missing.
+2022/07/29-17:00:15.289 791d Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hotpot.ai_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/29-17:00:44.133 6a7b Level-0 table #5: started
+2022/07/29-17:00:44.135 6a7b Level-0 table #5: 1520 bytes OK
+2022/07/29-17:00:44.136 6a7b Delete type=0 #3
+2022/07/29-17:00:44.136 6a7b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

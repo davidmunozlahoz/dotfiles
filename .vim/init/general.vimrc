@@ -6,6 +6,8 @@ set tabstop=4 " number of visual spaces per TAB
 set softtabstop=4 " number of spaces in tab when editing
 set expandtab " tabs are spaces
 set shiftwidth=4 " tab size of >
+set lcs=tab:>~,nbsp:%,trail:~ " how to make visible some invisible chars
+set list " make listchars visible
 filetype indent on " load filetype-specific indent files
 
 " # SEARCH # "
@@ -44,3 +46,4 @@ set viminfofile=~/.cache/viminfo " to move the viminfo file
 set clipboard=unnamed " system clipboard register +
 set undofile                 " turn on persistent undo
 set undodir=$HOME/.vim/undo  " directory where the undo files will be stored
+set thesaurus+=$HOME/.vim/thesaurus/mthesaur.txt " local copy of synonims

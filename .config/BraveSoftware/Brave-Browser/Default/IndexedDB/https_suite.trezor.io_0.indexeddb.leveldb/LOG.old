@@ -1,0 +1,7 @@
+2022/12/11-20:10:05.166 28e Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_suite.trezor.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/11-20:10:05.166 28e Recovering log #3
+2022/12/11-20:10:05.167 28e Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_suite.trezor.io_0.indexeddb.leveldb/000003.log 
+2022/12/11-21:14:13.972 6f37 Level-0 table #5: started
+2022/12/11-21:14:13.977 6f37 Level-0 table #5: 65622 bytes OK
+2022/12/11-21:14:13.979 6f37 Delete type=0 #3
+2022/12/11-21:14:13.979 6f37 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/03/16-18:58:36.819 156ec Creating DB /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sedejudicial.justicia.es_0.indexeddb.leveldb since it was missing.
+2023/03/16-18:58:36.822 156ec Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sedejudicial.justicia.es_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/16-18:58:41.460 14d47 Level-0 table #5: started
+2023/03/16-18:58:41.462 14d47 Level-0 table #5: 1574 bytes OK
+2023/03/16-18:58:41.463 14d47 Delete type=0 #3
+2023/03/16-18:58:41.463 14d47 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

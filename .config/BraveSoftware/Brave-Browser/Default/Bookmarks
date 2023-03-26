@@ -1,0 +1,628 @@
+{
+   "checksum": "26ea52572abc50691105883c779e74ee",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13262983428000000",
+               "guid": "71369b15-6c1a-44f1-b378-0d8f81bdf2b0",
+               "id": "12",
+               "name": "Bitcoinity.org",
+               "type": "url",
+               "url": "http://bitcoinity.org/"
+            }, {
+               "date_added": "13262983546000000",
+               "guid": "9402e026-e657-41a3-bd81-f7e4fd67ffbd",
+               "id": "13",
+               "name": "Crypto Prices and Portfolio Tracker App | CoinStats",
+               "type": "url",
+               "url": "https://coinstats.app/"
+            }, {
+               "date_added": "13262984272000000",
+               "guid": "510fd980-da9a-4c14-9fb8-bcd90aaf6203",
+               "id": "14",
+               "name": "Cryptocurrency Prices, Portfolio, Forum, Rankings | CryptoCompare.com",
+               "type": "url",
+               "url": "https://www.cryptocompare.com/"
+            }, {
+               "date_added": "13263238493000000",
+               "guid": "5a04b259-16c7-417b-a399-c079557e6836",
+               "id": "15",
+               "name": "Explorador de Blockchain - Busque en Blockchain | BTC | ETH | BCH",
+               "type": "url",
+               "url": "https://www.blockchain.com/explorer"
+            }, {
+               "date_added": "13263238761000000",
+               "guid": "e8a4e202-c032-4f73-b347-e9c4c0b38c1e",
+               "id": "16",
+               "name": "Google Trends",
+               "type": "url",
+               "url": "https://trends.google.com/trends/?geo=US"
+            }, {
+               "date_added": "13263238792000000",
+               "guid": "fb0fc581-728a-43dc-a01a-c4fd3a638f38",
+               "id": "17",
+               "name": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+               "type": "url",
+               "url": "https://www.coindesk.com/"
+            }, {
+               "date_added": "13263241637000000",
+               "guid": "545e14bd-57c8-4167-abdc-78ec98ed969a",
+               "id": "18",
+               "name": "#1 Crypto Mining Calculator \u003C> CoinWarz",
+               "type": "url",
+               "url": "https://www.coinwarz.com/"
+            }, {
+               "date_added": "13263396764000000",
+               "guid": "8cee2412-445b-4db7-8827-8d72f6385d81",
+               "id": "19",
+               "name": "Satoshi Nakamoto Institute",
+               "type": "url",
+               "url": "https://nakamotoinstitute.org/"
+            }, {
+               "date_added": "13263396854000000",
+               "guid": "30c37254-e396-4eca-8b69-63ad80e753ed",
+               "id": "20",
+               "name": "Bitcoin Forum - Index",
+               "type": "url",
+               "url": "https://bitcointalk.org/"
+            }, {
+               "children": [ {
+                  "date_added": "13263422507000000",
+                  "guid": "f5d13343-2c5c-44f8-9474-efc7a1c486a8",
+                  "id": "22",
+                  "name": "Analysis of Digital Assets for fun and profits with the Amberdata API and Jupyter Notebook #2 - Blog - Amberdata",
+                  "type": "url",
+                  "url": "https://amberdata.io/blog/analysis-of-digital-assets-for-fun-and-profits-with-the-amberdata-api-and-jupyter-notebook-2/"
+               }, {
+                  "date_added": "13263422512000000",
+                  "guid": "79b85067-e16b-4a07-b104-8bf93c2b07f4",
+                  "id": "23",
+                  "name": "Cryptocurrency Analysis with Python — Buy and Hold | by Roman Orac | Towards Data Science",
+                  "type": "url",
+                  "url": "https://towardsdatascience.com/cryptocurrency-analysis-with-python-buy-and-hold-c3b0bc164ffa"
+               }, {
+                  "date_added": "13263422519000000",
+                  "guid": "b51852ca-5a31-4b1a-bd6a-e9b588ec23b6",
+                  "id": "24",
+                  "name": "I Built A Jupyter Notebook That Will Analyze Cryptocurrency Portfolios For You",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/news/i-built-a-jupyter-notebook-that-will-analyze-cryptocurrency-portfolios-for-you-bdaba618aeca/"
+               }, {
+                  "date_added": "13266508781000000",
+                  "guid": "661babc8-4ff7-4c24-8c55-b9ddfdd7695b",
+                  "id": "25",
+                  "name": "Introduction to Portfolio Analysis & Optimization with Python. | by Dimitris Georgiou | Medium",
+                  "type": "url",
+                  "url": "https://dimitrisgeorgiou.medium.com/introduction-to-portfolio-analysis-optimization-with-python-697b1534dfe4"
+               }, {
+                  "date_added": "13267047163000000",
+                  "guid": "5986da48-d5dd-4770-9495-7776a77faa35",
+                  "id": "26",
+                  "name": "Analysis of Digital Assets for fun and profits with the Amberdata API and Jupyter Notebook #1 | by Shawn Douglass | amberdata | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/amberdata/analysis-of-digital-assets-for-fun-and-profits-with-the-amberdata-api-and-jupyter-notebook-1-3c0a68762403"
+               } ],
+               "date_added": "13302805495744928",
+               "date_modified": "0",
+               "guid": "e4422aba-74a9-49d7-978b-7a583e1b92d1",
+               "id": "21",
+               "name": "Portfolio analysis",
+               "type": "folder"
+            }, {
+               "date_added": "13263719348000000",
+               "guid": "6183ce70-9c0d-4942-8389-330c90889eb5",
+               "id": "27",
+               "name": "(1) Benjamin Cowen - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg/videos"
+            }, {
+               "date_added": "13265835456000000",
+               "guid": "f0262034-c6ee-4f7c-b3df-5815f45d2fe8",
+               "id": "28",
+               "name": "Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap",
+               "type": "url",
+               "url": "https://coinmarketcap.com/"
+            }, {
+               "date_added": "13265890144000000",
+               "guid": "8de20efe-129f-4ab9-b875-9ac1d7f30e4c",
+               "id": "29",
+               "name": "https://twitter.com/whale_alert?lang=es",
+               "type": "url",
+               "url": "https://twitter.com/whale_alert?lang=es"
+            }, {
+               "date_added": "13265930983000000",
+               "guid": "ffaa92c4-32fe-49a3-8549-b0e36fa579b9",
+               "id": "30",
+               "name": "Tradingview",
+               "type": "url",
+               "url": "https://www.tradingview.com/chart/co5HE6zr/"
+            }, {
+               "date_added": "13269512330000000",
+               "guid": "1c19f1f3-48cc-4d09-b21c-d43bd9addd3a",
+               "id": "31",
+               "name": "Data",
+               "type": "url",
+               "url": "https://www.cryptodatadownload.com/index.html"
+            }, {
+               "date_added": "13269621671000000",
+               "guid": "0c90a610-9981-4abe-95cb-53fc764b3c30",
+               "id": "32",
+               "name": "Web Scraping Crypto Prices With Python | by Bryan Feng | Medium",
+               "type": "url",
+               "url": "https://bryanf.medium.com/web-scraping-crypto-prices-with-python-41072ea5b5bf"
+            }, {
+               "date_added": "13271237987000000",
+               "guid": "e5e1e93d-835b-4285-bc29-126c99dd7796",
+               "id": "33",
+               "name": "Cointelegraph: Bitcoin, Ethereum, Crypto News & Price Indexes",
+               "type": "url",
+               "url": "https://cointelegraph.com/"
+            }, {
+               "date_added": "13275509325000000",
+               "guid": "9dcdf049-56c7-4c04-833c-2d063c6453b0",
+               "id": "34",
+               "name": "Crypto Fear & Greed Index - Bitcoin Sentiment - Alternative.me",
+               "type": "url",
+               "url": "https://alternative.me/crypto/fear-and-greed-index/"
+            }, {
+               "date_added": "13299703665000000",
+               "guid": "fdbd1155-c613-48d6-a47e-a4982c048360",
+               "id": "35",
+               "name": "PlanB (@100trillionUSD) / Twitter",
+               "type": "url",
+               "url": "https://twitter.com/100trillionUSD"
+            }, {
+               "date_added": "13300576420000000",
+               "guid": "dc17df2d-2e12-425b-b30b-ae7effaddc9b",
+               "id": "36",
+               "name": "bitcoinbook/ch03.asciidoc",
+               "type": "url",
+               "url": "https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc"
+            }, {
+               "date_added": "13300626441000000",
+               "guid": "9768135e-89d3-4160-94a3-ed24936b20ee",
+               "id": "37",
+               "name": "Developer Guides — Bitcoin",
+               "type": "url",
+               "url": "https://developer.bitcoin.org/devguide/index.html"
+            } ],
+            "date_added": "13302805495744619",
+            "date_modified": "0",
+            "guid": "136be783-66dd-4256-b461-ba51bd63acfe",
+            "id": "11",
+            "name": "Bitcoin",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13249157286000000",
+               "guid": "1605dbc6-673f-4acf-b709-ec729f897703",
+               "id": "39",
+               "name": "Abstract Algebra: Theory and Applications (A Free Textbook)",
+               "type": "url",
+               "url": "http://abstract.ups.edu/sage-aata.html"
+            }, {
+               "date_added": "13164985422000000",
+               "guid": "78342a32-0097-4d34-84c4-23bea5f68bc5",
+               "id": "40",
+               "name": "Fernando Revilla | Tiempo, aritmética y conjetura de Goldbach & Docencia matemática",
+               "type": "url",
+               "url": "http://fernandorevilla.es/"
+            }, {
+               "date_added": "13246448857000000",
+               "guid": "4d39f196-2f9a-430b-8404-d760fe9e8cb0",
+               "id": "41",
+               "name": "Groupprops",
+               "type": "url",
+               "url": "https://groupprops.subwiki.org/wiki/Main_Page"
+            }, {
+               "children": [ {
+                  "date_added": "13270313232000000",
+                  "guid": "1ac73d99-4b6b-4729-8eea-1209d23fd100",
+                  "id": "43",
+                  "name": "LaTeX/Tips and Tricks - Wikibooks, open books for an open world",
+                  "type": "url",
+                  "url": "https://en.wikibooks.org/wiki/LaTeX/Tips_and_Tricks"
+               }, {
+                  "date_added": "13270313239000000",
+                  "guid": "e689a0dd-0062-47e2-8bdd-0cccc1c235df",
+                  "id": "44",
+                  "name": "dspinellis/latex-advice: Advice for writing LaTeX documents",
+                  "type": "url",
+                  "url": "https://github.com/dspinellis/latex-advice#avoid-explicit-formatting"
+               }, {
+                  "date_added": "13270662997000000",
+                  "guid": "6af8e5e3-79c5-49ca-ae86-26d93058f34f",
+                  "id": "45",
+                  "name": "Package PGFPLOTS manual",
+                  "type": "url",
+                  "url": "http://pgfplots.sourceforge.net/TeX-programming-notes.pdf"
+               }, {
+                  "date_added": "13270683141000000",
+                  "guid": "42a0edcc-f3e2-4011-b886-2c718b107e80",
+                  "id": "46",
+                  "name": "LaTeX Presentations",
+                  "type": "url",
+                  "url": "https://latex-beamer.com/"
+               }, {
+                  "date_added": "13271182005000000",
+                  "guid": "d249de76-a186-46ad-9ee2-c6c48a1bd17e",
+                  "id": "47",
+                  "name": "Detexify LaTeX handwritten symbol recognition",
+                  "type": "url",
+                  "url": "http://detexify.kirelabs.org/classify.html"
+               } ],
+               "date_added": "13302805495745543",
+               "date_modified": "0",
+               "guid": "b033e24b-747a-4b14-9099-e66d514bdfb0",
+               "id": "42",
+               "name": "LaTeX",
+               "type": "folder"
+            }, {
+               "date_added": "13291745923000000",
+               "guid": "1ef65d6b-d985-4b42-bfd9-550bafd79407",
+               "id": "48",
+               "name": "Rafael Payá apuntes",
+               "type": "url",
+               "url": "https://ugr.es/~rpaya/cursosanteriores.htm"
+            }, {
+               "date_added": "13294331462000000",
+               "guid": "adb5e4b8-b548-4a58-be60-0004382bc034",
+               "id": "49",
+               "name": "imomath training",
+               "type": "url",
+               "url": "https://imomath.com/index.cgi?page=mathTexts"
+            }, {
+               "date_added": "13296585017000000",
+               "guid": "fe542858-8aa4-44be-83f5-890028f98613",
+               "id": "50",
+               "name": "MR: Search Publications database",
+               "type": "url",
+               "url": "https://mathscinet-ams-org.are.uab.cat/mathscinet/index.html"
+            }, {
+               "date_added": "13297354842000000",
+               "guid": "deca44d3-d3fe-4161-bf60-e186a7f71813",
+               "id": "51",
+               "name": "tikzcd-editor",
+               "type": "url",
+               "url": "https://tikzcd.yichuanshen.de/"
+            } ],
+            "date_added": "13302805495745455",
+            "date_modified": "0",
+            "guid": "2e47cc14-f1e2-4ab4-9a44-b510f5e38b6b",
+            "id": "38",
+            "name": "Maths",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13199485779000000",
+               "guid": "e4a00b1c-601e-4b18-8376-ba07393f3c20",
+               "id": "53",
+               "name": "Protestas y tensión por la presencia de Cayetana Álvarez de Toledo en un acto en la Universidad Autónoma de Barcelona | Público",
+               "type": "url",
+               "url": "https://www.publico.es/politica/protestas-tension-presencia-cayetana-alvarez-toledo-acto-universidad-autonoma-barcelona.html"
+            }, {
+               "date_added": "13199486099000000",
+               "guid": "db360c43-8f1c-4c81-bbcd-65e104bb452d",
+               "id": "54",
+               "name": "24h en Twitter: \"🔴 Incidentes en el exterior de un acto de Cayatena Álvarez de Toledo (PP) en la Universidad Autónoma de Barcelona https://t.co/yxDAHs5ftl… https://t.co/0l1Hvi08Eg\"",
+               "type": "url",
+               "url": "https://twitter.com/24h_tve/status/1116300377387724800?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1116304709852323840&ref_url=https%3A%2F%2Fwww.publico.es%2Fpolitica%2Fprotestas-tension-presencia-cayetana-alvarez-toledo-acto-universidad-autonoma-barcelona.html"
+            }, {
+               "date_added": "13199486312000000",
+               "guid": "d6fc5279-5711-4a85-a195-46e92822c521",
+               "id": "55",
+               "name": "Intolerancia en la universidad",
+               "type": "url",
+               "url": "https://www.lavozdegalicia.es/noticia/elecciones/2019/04/11/200-estudiantes-boicotean-insultos-empujones-acto-popular-cayetana-alvarez-toledo-barcelona/00031554983960653756182.htm"
+            }, {
+               "date_added": "13199486525000000",
+               "guid": "6305e72c-e02b-435e-af75-9e98434af2d3",
+               "id": "56",
+               "name": "Un grupo de estudiantes de la Autónoma de Barcelona  intentan boicotear un acto de Álvarez de Toledo",
+               "type": "url",
+               "url": "https://www.20minutos.es/noticia/3612902/0/incidentes-en-la-autonoma-de-barcelona-tras-una-conferencia-de-cayetana-alvarez-de-toledo/"
+            }, {
+               "date_added": "13199486575000000",
+               "guid": "40a68ffd-43ad-4166-8f34-53d21e9d9e0d",
+               "id": "57",
+               "name": "NacióSabadell en Twitter: \"VIDEO Membres de @ShaAcabat intenten accedir a la sala on volien fer un acte a la @UABBarcelona i topen amb un grup antifeixista https://t.co/QK8NZMWXm8 #Sabadell… https://t.co/nGLCv2hgUf\"",
+               "type": "url",
+               "url": "https://twitter.com/NacioSabadell/status/1116301188931178497?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1116303237659996162&ref_url=https%3A%2F%2Fwww.20minutos.es%2Fnoticia%2F3612902%2F0%2Fincidentes-en-la-autonoma-de-barcelona-tras-una-conferencia-de-cayetana-alvarez-de-toledo%2F"
+            }, {
+               "date_added": "13199486718000000",
+               "guid": "1e94e177-7de5-41f6-b379-958efbafb506",
+               "id": "58",
+               "name": "Cayetana Álvarez de Toledo: Increpada al llegar a un acto constitucionalista en la UAB",
+               "type": "url",
+               "url": "https://www.lavanguardia.com/politica/20190411/461588654145/cayetana-alvarez-de-toledo-increpada-protestas-acto-constitucionalista-uab.html"
+            }, {
+               "date_added": "13199487353000000",
+               "guid": "1ae65f54-0022-4266-a556-51d04ae38bb7",
+               "id": "59",
+               "name": "Absolució Antifeixistes UAB в Twitter: \"🔴 Fora feixistes de la universitat! https://t.co/OC5vbhUedh\"",
+               "type": "url",
+               "url": "https://twitter.com/encausades_UAB/status/1116330646853627904"
+            } ],
+            "date_added": "13302805495745781",
+            "date_modified": "0",
+            "guid": "1acc1834-3dbd-48a8-b305-92cb61f214e7",
+            "id": "52",
+            "name": "11/04/2019",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13271767521000000",
+               "guid": "24f96690-3c33-4c8b-b0ba-ad7665483d0b",
+               "id": "61",
+               "name": "How To Learn Vim: A Four Week Plan",
+               "type": "url",
+               "url": "https://peterxjang.com/blog/how-to-learn-vim-a-four-week-plan.html"
+            }, {
+               "date_added": "13271767540000000",
+               "guid": "8586132b-58f9-4fd9-a653-764e8ccbca8a",
+               "id": "62",
+               "name": "How to Learn Vim in 2020 - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/iggredible/learning-vim-in-2020-1mma"
+            }, {
+               "date_added": "13271767661000000",
+               "guid": "3e81becf-b7cc-4386-b954-44f851aa39ec",
+               "id": "63",
+               "name": "How I'm able to take notes in mathematics lectures using LaTeX and Vim | Gilles Castel",
+               "type": "url",
+               "url": "https://castel.dev/post/lecture-notes-1/"
+            }, {
+               "date_added": "13271795968000000",
+               "guid": "cfdfed97-0676-4e60-9bf3-fa1fe991ada0",
+               "id": "64",
+               "name": "Vim: Seven habits of effective text editing",
+               "type": "url",
+               "url": "https://www.moolenaar.net/habits.html"
+            }, {
+               "date_added": "13272112752000000",
+               "guid": "26a0000a-93cf-4422-ae02-05119765b6be",
+               "id": "65",
+               "name": "Vimways ~ Latex in Vim",
+               "type": "url",
+               "url": "https://vimways.org/2019/latex-in-vim/latex-in-vim/"
+            }, {
+               "date_added": "13272131141000000",
+               "guid": "973e1ede-1d79-46d9-a0fd-c41580891c2a",
+               "id": "66",
+               "name": "Vim Cheat Sheet",
+               "type": "url",
+               "url": "https://vim.rtorr.com/"
+            }, {
+               "date_added": "13272299813000000",
+               "guid": "44f16dce-98b9-40df-9462-72205985aba4",
+               "id": "67",
+               "name": "Zathura doc",
+               "type": "url",
+               "url": "http://manpages.ubuntu.com/manpages/precise/man1/zathura.1.html"
+            }, {
+               "date_added": "13274526906000000",
+               "guid": "55a5520e-d480-4499-b7cb-e44ebdf5eaf5",
+               "id": "68",
+               "name": "Your problem with Vim is that you don't grok vi",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118"
+            }, {
+               "date_added": "13274529153000000",
+               "guid": "570939c8-d187-40d0-8db2-362473e82f98",
+               "id": "69",
+               "name": "Working with vim and git - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/iggredible/working-with-vim-and-git-4nkh"
+            }, {
+               "date_added": "13274529530000000",
+               "guid": "2caaeb16-3b2b-4561-944b-5e1eacb6f79a",
+               "id": "70",
+               "name": "Markdown con Vim - Atareao",
+               "type": "url",
+               "url": "https://atareao.es/tutorial/vim/markdown-con-vim/"
+            }, {
+               "date_added": "13274699482000000",
+               "guid": "240257a5-02f8-4c4d-bfd6-e2f2cf6dd3c1",
+               "id": "71",
+               "name": "Is Vim Really Not For You? A Beginner Guide",
+               "type": "url",
+               "url": "https://thevaluable.dev/vim-beginner/"
+            }, {
+               "date_added": "13275574120000000",
+               "guid": "60e0112f-239f-40b3-870f-055d799d4fc9",
+               "id": "72",
+               "name": "Learn Vimscript the Hard Way",
+               "type": "url",
+               "url": "https://learnvimscriptthehardway.stevelosh.com/"
+            }, {
+               "date_added": "13297805495000000",
+               "guid": "8c592251-1123-4bf4-bc1a-a6f2927c6ed0",
+               "id": "73",
+               "name": "vim-university",
+               "type": "url",
+               "url": "https://github.com/wincent/vim-university"
+            } ],
+            "date_added": "13302805495746113",
+            "date_modified": "0",
+            "guid": "4832aea0-673e-47b3-9f37-700ba50e4551",
+            "id": "60",
+            "name": "Vim",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13294054711000000",
+               "guid": "c3268103-745b-4746-88cb-84d790892333",
+               "id": "75",
+               "name": "How I use dwm - ratfactor",
+               "type": "url",
+               "url": "https://ratfactor.com/dwm2"
+            } ],
+            "date_added": "13302805495746506",
+            "date_modified": "0",
+            "guid": "33704b79-4f4e-412d-a86e-499c9a5845cd",
+            "id": "74",
+            "name": "Arch",
+            "type": "folder"
+         }, {
+            "date_added": "13308590627837549",
+            "guid": "d5bee3f9-a032-46c1-85ca-933fbf0f0253",
+            "id": "82",
+            "name": "EMS | Jobs",
+            "type": "url",
+            "url": "https://euromathsoc.org/jobs"
+         }, {
+            "date_added": "13310925487260581",
+            "guid": "43828b73-27e2-4552-ad3c-caf3c8226360",
+            "id": "84",
+            "name": "El Tiempo: Colmenar Viejo (Madrid) - Predicción 7 días - Tabla - Agencia Estatal de Meteorología - AEMET. Gobierno de España",
+            "type": "url",
+            "url": "https://www.aemet.es/es/eltiempo/prediccion/municipios/colmenar-viejo-id28045#detallada"
+         }, {
+            "date_added": "13315441673285285",
+            "guid": "7fbfe530-d7b2-4cda-8a9f-3f029b25737e",
+            "id": "91",
+            "name": "The Latin Library",
+            "type": "url",
+            "url": "https://thelatinlibrary.com/"
+         }, {
+            "date_added": "13316647591795748",
+            "guid": "7cbdf7e8-c527-41e7-8364-4e1aa3260d58",
+            "id": "95",
+            "name": "Busqueda: los simpsons - RojoTorrent",
+            "type": "url",
+            "url": "https://rojotorrent.com/buscar/los%20simpsons/page/1"
+         }, {
+            "date_added": "13318105743628740",
+            "guid": "74dfa23e-dbb5-4448-ac13-0707b96759ed",
+            "id": "102",
+            "name": "Disposable Email",
+            "type": "url",
+            "url": "https://disposableemail.us/"
+         }, {
+            "date_added": "13319197148982104",
+            "guid": "40ef58ee-6a65-4e8e-be56-f8e8ed6ab9b0",
+            "id": "104",
+            "name": "Convocatorias Becas y Ayudas - Fundación Ramón Areces",
+            "type": "url",
+            "url": "https://www.fundacionareces.es/fundacionareces/es/becas-y-ayudas/convocatorias/"
+         }, {
+            "date_added": "13319197302624591",
+            "guid": "327c5287-ef58-49a8-8604-b53add4e180a",
+            "id": "105",
+            "name": "Becas – Fundació Banc Sabadell",
+            "type": "url",
+            "url": "https://www.fundacionbancosabadell.com/category/becas/"
+         }, {
+            "date_added": "13319197636778100",
+            "guid": "5ae8fa9b-d97d-4ab4-a0d5-5b9fcd9d2c37",
+            "id": "106",
+            "name": "Becas Santander",
+            "type": "url",
+            "url": "https://app.becas-santander.com/es/program/search?search=csic&category=STUDIES&status=open"
+         }, {
+            "date_added": "13319565889468000",
+            "guid": "4ba7392c-9441-46ce-88fe-3196c24a6296",
+            "id": "108",
+            "name": "Benjamin Bode - Teaching",
+            "type": "url",
+            "url": "https://sites.google.com/view/benjaminbode/teaching"
+         }, {
+            "date_added": "13319910368533546",
+            "guid": "fa9e61bc-04e1-4bc5-b058-81049c12ea81",
+            "id": "111",
+            "name": "José Manuel Conde Alonso - Curso avanzado de Análisis",
+            "type": "url",
+            "url": "https://sites.google.com/view/josecondealonso/teaching/curso-avanzado-de-an%C3%A1lisis"
+         }, {
+            "date_added": "13319922211596582",
+            "guid": "159b9590-e0ca-4455-aee3-9f830db330f6",
+            "id": "112",
+            "name": "Zotero | Your personal research assistant",
+            "type": "url",
+            "url": "https://www.zotero.org/"
+         }, {
+            "date_added": "13320673206050722",
+            "guid": "7c3c384b-bc3b-455b-b30d-1187e0891f51",
+            "id": "117",
+            "name": "Watch Friends Online Free full episodes 123movies 1080p - watchfilm",
+            "type": "url",
+            "url": "https://ww22.watchfilm.net/tv/friends-39473.11398"
+         }, {
+            "date_added": "13320747720333761",
+            "guid": "b70b77a7-166d-4a67-8271-784b7917b373",
+            "id": "119",
+            "name": "Göteborgs universitet | PhD student at the Division of Algebra and Geometry",
+            "type": "url",
+            "url": "https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=p28845"
+         }, {
+            "date_added": "13320857102731914",
+            "guid": "c2711439-a9a9-4aa2-bde8-f7e6ed05afff",
+            "id": "123",
+            "name": "Curso Avanzado de Álgebra 2023",
+            "type": "url",
+            "url": "https://dominik.francoeur.xyz/CAAL2023/"
+         }, {
+            "date_added": "13320873984279212",
+            "guid": "793fa26d-0e34-400e-9177-23d5a9c30121",
+            "id": "124",
+            "name": "Anna’s Archive",
+            "type": "url",
+            "url": "https://annas-archive.org/"
+         }, {
+            "date_added": "13321275913055131",
+            "guid": "cf6b30d1-1283-48f1-a7cb-3bb5bcf15f3c",
+            "id": "126",
+            "name": "CatastroPiso",
+            "type": "url",
+            "url": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCConCiud.aspx?del=28&mun=45&UrbRus=U&RefC=5515101VL3051N0023MT&Apenom=&esBice=&RCBice1=&RCBice2=&DenoBice=&from=nuevoVisor&ZV=NO&anyoZV="
+         }, {
+            "date_added": "13321563725235120",
+            "guid": "60f81804-4497-405e-b9ed-21bb5938c337",
+            "id": "128",
+            "name": "El ente y la esencia (español-latin) - Santo Tomas de Aquino",
+            "type": "url",
+            "url": "https://tomasdeaquino.org/el-ente-y-la-esencia-espanol-latin/"
+         }, {
+            "date_added": "13321999149707781",
+            "guid": "76f4ce37-205b-4c76-9de8-059d5cf359b0",
+            "id": "130",
+            "name": "Where to find ancient mathematics in Latin? - Latin Language Stack Exchange",
+            "type": "url",
+            "url": "https://latin.stackexchange.com/questions/400/where-to-find-ancient-mathematics-in-latin"
+         }, {
+            "date_added": "13322819609766228",
+            "guid": "bfb329a7-8eca-423f-badf-0a62fa944d0f",
+            "id": "132",
+            "name": "trafico",
+            "type": "url",
+            "url": "https://www.google.com/maps/dir/Av.+de+la+Libertad,+43,+28770+Colmenar+Viejo,+Madrid/Facultad+de+Ciencias+%7C+UAM,+Ciudad+Universitaria+de+Cantoblanco,+Calle+Francisco+Tom%C3%A1s+y+Valiente,+Madrid/@40.6043339,-3.7639772,12z/data=!3m1!5s0xd422b1b4d781e05:0x3f05e4bd78a69822!4m14!4m13!1m5!1m1!1s0xd417ddd96e191fd:0x25a8b9b51fd149f1!2m2!1d-3.7648959!2d40.6614659!1m5!1m1!1s0xd422b1ad5a9fdbb:0xf2544e1226b73fef!2m2!1d-3.6951732!2d40.5454098!3e0"
+         } ],
+         "date_added": "13300992658519855",
+         "date_modified": "13322819609766228",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13300992658519857",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13300992658519859",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Marcadores del móvil",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -40,4 +40,15 @@ Plug 'sainnhe/gruvbox-material'
 Plug 'junegunn/seoul256.vim'
 Plug 'sainnhe/everforest'
 
+" AI generated text
+Plug 'dense-analysis/neural'
+    Plug 'muniftanjim/nui.nvim'
+    Plug 'elpiloto/significant.nvim'
+
+" thesaurus for synonims
+Plug 'ron89/thesaurus_query.vim'
+
+" grammar checker
+Plug 'rhysd/vim-grammarous'
+
 call plug#end()

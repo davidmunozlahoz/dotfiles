@@ -1,0 +1,15 @@
+2022/12/23-16:15:25.706 d020 Reusing MANIFEST /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discourse.gohugo.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/23-16:15:25.706 d020 Recovering log #4
+2022/12/23-16:15:25.708 d020 Reusing old log /home/david/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discourse.gohugo.io_0.indexeddb.leveldb/000004.log 
+2022/12/23-16:16:27.431 ccd7 Level-0 table #8: started
+2022/12/23-16:16:27.432 ccd7 Level-0 table #8: 9806 bytes OK
+2022/12/23-16:16:27.434 ccd7 Delete type=0 #4
+2022/12/23-16:16:27.434 ccd7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/12/23-16:16:27.434 ccd7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x00`\xdb\xf8SxB\x00\x01<\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00.\x00g\x00o\x00h\x00u\x00g\x00o\x00.\x00i\x00o\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 418 : 1
+2022/12/23-16:16:27.434 ccd7 Compacting 1@1 + 1@2 files
+2022/12/23-16:16:27.436 ccd7 Generated table #9@1: 39 keys, 1587 bytes
+2022/12/23-16:16:27.436 ccd7 Compacted 1@1 + 1@2 files => 1587 bytes
+2022/12/23-16:16:27.436 ccd7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/12/23-16:16:27.437 ccd7 Delete type=2 #8
+2022/12/23-16:16:27.437 ccd7 Delete type=2 #5
+2022/12/23-16:16:27.437 ccd7 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x00`\xdb\xf8SxB\x00\x01<\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00.\x00g\x00o\x00h\x00u\x00g\x00o\x00.\x00i\x00o\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 418 : 1 .. (end); will stop at (end)
